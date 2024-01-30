@@ -1,12 +1,12 @@
 ---
 layout: post
-title: a post with images
+title: Some frantic thoughts in the middle of the night
 date: 2024-01-30 04:07:00
 description: Some frantic thoughts in the middle of the night
 tags: thoughts
 categories: dairy
 thumbnail: assets/img/9.jpg
-published: true
+
 ---
 
 &nbsp;It feels fucking awful. I am having a deep state of analysis paralysis. I feel like whatever I touched, I destroyed it. I looked around, cannot help but feeling a sense of sadness and pity for myself. Why things have gotten so bad lately? 

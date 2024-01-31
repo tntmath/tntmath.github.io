@@ -7,8 +7,17 @@ tags: thoughts
 categories: dairy
 thumbnail: assets/img/9.jpg
 related_posts: true
-
+images:
+  compare: true
+  slider: true
 ---
+
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/mendota_2019a.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/mendota_2019a-bright.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+</img-comparison-slider>
+
+Hhhhh
 
 &emsp; It feels extremely distressing. I am experiencing a profound state of analysis paralysis. I feel like whatever I touched, I destroyed it. I looked around, cannot help but feel a sense of sadness and pity for myself. Why have things gotten so bad lately?
 

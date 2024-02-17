@@ -21,7 +21,7 @@ featured: true
 #     affiliations:
 #       name: IAS, Princeton
 
-bibliography: 2024-04-17-distill.bib
+bibliography: 2024-02-17-distill.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:

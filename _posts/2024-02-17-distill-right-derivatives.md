@@ -102,7 +102,7 @@ This simple result appears in one of my research project, which I think it worth
 
 > ##### Theorem
 >
->  Let $f : (0,1) \rightarrow \mathbb{R}$ continous right-hand derivable, such that $f'_+ \geqslant 0$ $\forall t\in (0,1)$. Show that $f$ is non-decreasing.
+>  Let $f : (-1,1) \rightarrow \mathbb{R}$ continuous right-hand derivable, such that $f'_+ \geqslant 0$ $\forall t\in (0,1)$. Show that $f$ is non-decreasing.
 {: .block-tip }
 
 
@@ -113,7 +113,7 @@ This simple result appears in one of my research project, which I think it worth
 {: .block-warning }
 
 ```markdown
-Proof. 
+**Proof.** Suppose we have something stronger, that is for all $x$ we have $f'_+(x) > 0$, then $f(y)>f(x)$ for all $y\in (x,x+\varepsilon_x)$ for some $\varepsilon_x > 0$ small.
 
 ```
 

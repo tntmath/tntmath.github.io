@@ -61,7 +61,15 @@ _styles: >
   }
 ---
 
-## Equations
+This simple result appears in one of my research project, which I think it worth noting here. 
+
+> ##### Theorem
+>
+>  Let $f : (0,1) \rightarrow \mathbb{R}$ continous     
+> right-hand derivable, such that $f'_+ \geqslant 0$ $\forall t\in (0,1)$. Show that $f$ is non-decreasing.
+{: .block-tip }
+
+
 
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine.
 You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`.

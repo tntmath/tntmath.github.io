@@ -143,6 +143,5 @@ This simple result appears in one of my research project, which I think it worth
 >{: .block-warning }
 
 I learned that this is quite old, for example pp.203-204 in <d-cite key="stanislawSaks1937"></d-cite>.
-<d-cite key="gregor2015draw"></d-cite>.
 
 ---

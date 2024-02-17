@@ -105,8 +105,8 @@ This simple result appears in one of my research project, which I think it worth
 > Let $f : I \rightarrow \mathbb{R}$ continuous right-hand derivable, such that $f'_+ \geqslant 0$ $\forall t\in I$. Show that $f$ is non-decreasing.
 {: .block-tip }
 
->
->> ##### Proof.
+
+> ##### Proof.
 >Suppose we have something stronger, that is for all $x$ we have $f'_+(x) > 0$, then $f(y)>f(x)$ for all $y\in (x,x+\varepsilon_x)$ for some $\varepsilon_x > 0$ small. Let $[a,b]\subset I$, we define
 >
 >$$
@@ -142,7 +142,7 @@ This simple result appears in one of my research project, which I think it worth
 >Let $\varepsilon\to 0$ we deduce the conclusion.
 >{: .block-warning }
 
-I learned that this is quite old, for example pp.203-204 in <d-cite key="StanisławSaks1937"></d-cite> 
+I learned that this is quite old, for example pp.203-204 in <d-cite key="StanislawSaks1937"></d-cite>.
 
 
 ---

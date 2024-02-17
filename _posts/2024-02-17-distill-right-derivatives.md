@@ -21,7 +21,7 @@ featured: true
 #     affiliations:
 #       name: IAS, Princeton
 
-bibliography: 2018-12-22-distill.bib
+bibliography: 2024-04-17-distill.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -29,18 +29,18 @@ bibliography: 2018-12-22-distill.bib
 #     for hyperlinks within the post to work correctly.
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
-toc:
-  - name: Equations
+# toc:
+  # - name: Equations
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: Citations
-  - name: Footnotes
-  - name: Code Blocks
-  - name: Interactive Plots
-  - name: Layouts
-  - name: Other Typography?
+  # - name: Citations
+  # - name: Footnotes
+  # - name: Code Blocks
+  # - name: Interactive Plots
+  # - name: Layouts
+  # - name: Other Typography?
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.

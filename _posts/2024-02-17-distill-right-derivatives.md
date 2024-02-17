@@ -21,7 +21,7 @@ featured: true
 #     affiliations:
 #       name: IAS, Princeton
 
-bibliography: 2024-02-17-distill.bib
+bibliography: 2018-12-22-distill.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -143,6 +143,6 @@ This simple result appears in one of my research project, which I think it worth
 >{: .block-warning }
 
 I learned that this is quite old, for example pp.203-204 in <d-cite key="StanislawSaks1937"></d-cite>.
-
+<d-cite key="gregor2015draw"></d-cite>.
 
 ---

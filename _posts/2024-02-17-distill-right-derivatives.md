@@ -119,7 +119,7 @@ This simple result appears in one of my research project, which I think it worth
 >  f(y) > f(t_x) \qquad\text{for}\; y \in (t_x,t_x+\varepsilon] \subset [a,x].
 >$$
 >
->This is a contradiction to the fact that $f(t_x) = F(x)=\max_{[a,x] f}$. Therefore $t_x = x$, and thus 
+>This is a contradiction to the fact that $f(t_x) = F(x)=\max_{[a,x]} f$. Therefore $t_x = x$, and thus 
 >
 >$$
 >  f(x) = \max_{[a,x]} f. 

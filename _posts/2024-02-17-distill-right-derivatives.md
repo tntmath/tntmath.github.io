@@ -106,41 +106,41 @@ This simple result appears in one of my research project, which I think it worth
 {: .block-tip }
 
 
-> ##### Proof.
->Suppose we have something stronger, that is for all $x$ we have $f'_+(x) > 0$, then $f(y)>f(x)$ for all $y\in (x,x+\varepsilon_x)$ for some $\varepsilon_x > 0$ small. Let $[a,b]\subset I$, we define
->
->$$
->  F(x) = \max \left\lbrace f(t): t\in [a,x] \right\rbrace. 
->$$
->
->By continuity, there exists $t_x \in [a,x]$ such that $F(x) = f(t_x)$. Suppose that $t_x < x$, we observe that by the definition of $f'_+(t_x) > 0$ we have
->
->$$
->  f(y) > f(t_x) \qquad\text{for}\; y \in (t_x,t_x+\varepsilon] \subset [a,x].
->$$
->
->This is a contradiction to the fact that $f(t_x) = F(x)=\max_{[a,x]} f$. Therefore $t_x = x$, and thus 
->
->$$
->  f(x) = \max_{[a,x]} f. 
->$$
->
->Therefore $f$ is increasing on $[a,b]$, and thus $f$ is increasing in $I$. 
->
->Now if $f'_{+}(x) \geq 0$, we consider the classic trick 
->
->$$
->  f_\varepsilon(x) = f(x)+\varepsilon x
->$$
->
->for $\varepsilon>0$ small. The previous result applies to give us
->
->$$
->  f_\varepsilon(y)>f_\varepsilon(x)  \qquad\text{for}\\;x,y\in I, y>x.
->$$
->
->Let $\varepsilon\to 0$ we deduce the conclusion.
->{: .block-warning }
+##### Proof.
+Suppose we have something stronger, that is for all $x$ we have $f'_+(x) > 0$, then $f(y)>f(x)$ for all $y\in (x,x+\varepsilon_x)$ for some $\varepsilon_x > 0$ small. Let $[a,b]\subset I$, we define
+
+$$
+  F(x) = \max \left\lbrace f(t): t\in [a,x] \right\rbrace. 
+$$
+
+By continuity, there exists $t_x \in [a,x]$ such that $F(x) = f(t_x)$. Suppose that $t_x < x$, we observe that by the definition of $f'_+(t_x) > 0$ we have
+
+$$
+  f(y) > f(t_x) \qquad\text{for}\; y \in (t_x,t_x+\varepsilon] \subset [a,x].
+$$
+
+This is a contradiction to the fact that $f(t_x) = F(x)=\max_{[a,x]} f$. Therefore $t_x = x$, and thus 
+
+$$
+  f(x) = \max_{[a,x]} f. 
+$$
+
+Therefore $f$ is increasing on $[a,b]$, and thus $f$ is increasing in $I$. 
+
+Now if $f'_{+}(x) \geq 0$, we consider the classic trick 
+
+$$
+  f_\varepsilon(x) = f(x)+\varepsilon x
+$$
+
+for $\varepsilon>0$ small. The previous result applies to give us
+
+$$
+  f_\varepsilon(y)>f_\varepsilon(x)  \qquad\text{for}\\;x,y\in I, y>x.
+$$
+
+Let $\varepsilon\to 0$ we deduce the conclusion.
+
 
 I learned that this is quite old, for example pp.203-204 in <d-cite key="stanislawSaks1937"></d-cite>.
 

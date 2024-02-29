@@ -100,14 +100,14 @@ _styles: >
 
 This simple result appears in one of my research project, which I think it worth noting here. 
 
-> ##### Theorem
+
 > **Theorem**
 > Let $I$ be an open interval in $\mathbb{R}$.
 > Let $f : I \rightarrow \mathbb{R}$ continuous right-hand derivable, such that $f'_+ \geqslant 0$ $\forall t\in I$. Show that $f$ is non-decreasing.
 {: .block-tip }
 
 
-##### Proof.
+*Proof*
 Suppose we have something stronger, that is for all $x$ we have $f'_+(x) > 0$, then $f(y)>f(x)$ for all $y\in (x,x+\varepsilon_x)$ for some $\varepsilon_x > 0$ small. Let $[a,b]\subset I$, we define
 
 $$

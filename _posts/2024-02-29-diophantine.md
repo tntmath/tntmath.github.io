@@ -46,6 +46,10 @@ toc:
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
 _styles: >
+  .MathJax {
+  font-size: 1.3em;
+  }
+  
   .fake-img {
     background: #bbb;
     border: 1px solid rgba(0, 0, 0, 0.1);

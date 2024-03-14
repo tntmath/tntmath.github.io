@@ -151,7 +151,8 @@ $$
 
 Thus $\xi = (1,\sqrt{2})$ satisfies Diophantine condition with exponent $\sigma = 1$ and $C(\xi) = 3-2\sqrt{2}$. 
 
-I learned that this is quite old, for example pp.203-204 in <d-cite key="stanislawSaks1937"></d-cite>.
+
+% I learned that this is quite old, for example pp.203-204 in <d-cite key="stanislawSaks1937"></d-cite>.
 
 [^1]: [Diophantine_approximation](https://en.wikipedia.org/wiki/)
 

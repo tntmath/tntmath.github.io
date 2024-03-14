@@ -49,7 +49,7 @@ _styles: >
   .MathJax {
   font-size: 1.3em;
   }
-  
+
   .fake-img {
     background: #bbb;
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -108,7 +108,7 @@ _styles: >
 
 
 
-A vector $\xi\in \mathbb{R}^m$ satisfies a Diophantine condition [^1] if 
+A vector $\xi\in \mathbb{R}^m$ satisfies a Diophantine condition <d-footnote>[Diophantine Approximation](https://en.wikipedia.org/wiki/)</d-footnote> if 
 there exists a constant $C(\xi)>0$ and $\sigma(\xi)>0$ 
 such that 
 
@@ -156,8 +156,8 @@ $$
 Thus $\xi = (1,\sqrt{2})$ satisfies Diophantine condition with exponent $\sigma = 1$ and $C(\xi) = 3-2\sqrt{2}$. 
 
 
-% I learned that this is quite old, for example pp.203-204 in <d-cite key="stanislawSaks1937"></d-cite>.
+<!--  I learned that this is quite old, for example pp.203-204 in <d-cite key="stanislawSaks1937"></d-cite>. -->
 
-[^1]: [Diophantine_approximation](https://en.wikipedia.org/wiki/)
+
 
 

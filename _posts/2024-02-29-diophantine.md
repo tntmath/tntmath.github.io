@@ -104,7 +104,7 @@ _styles: >
 
 
 
-A vector $\xi\in \mathbb{R}^m$ satisfies a Diophantine condition <d-footnote>[Diophantine Approximation](https://en.wikipedia.org/wiki/)</d-footnote> if 
+A vector $\xi\in \mathbb{R}^m$ satisfies a Diophantine condition <d-footnote>https://en.wikipedia.org/wiki/</d-footnote> if 
 there exists a constant $C(\xi)>0$ and $\sigma(\xi)>0$ 
 such that 
 

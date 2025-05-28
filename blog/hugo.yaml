@@ -1,6 +1,6 @@
 baseurl: "https://example.org/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "tntmath"
 theme: "XMin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -30,8 +30,8 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
-
+  # footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [tntmath](https://github.com/tntmath) 2016 -- {Year} | [Github](https://github.com/tntmath) | Built with [Hugo](https://gohugo.io/) and the [hugo-xmin](https://github.com/yihui/hugo-xmin) theme."
 markup:
   highlight:
     codeFences: false

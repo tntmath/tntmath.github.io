@@ -1,0 +1,372 @@
+[
+  {
+    "DOI": "10.1137/S0036141097319966",
+    "ISSN": "0036-1410",
+    "URL": "https://epubs.siam.org/doi/10.1137/S0036141097319966",
+    "abstract": "In general, the value function associated with an exit time problem is a discontinuous function. We prove that the lower (upper) semicontinuous envelope of the value function is a supersolution (subsolution) of the Hamilton–Jacobi equation involving the proximal subdifferentials (superdifferentials) with subdifferential-type (superdifferential-type) mixed boundary condition. We also show that if the value function is upper semicontinuous, then it is the maximum subsolution of the Hamilton–Jacobi equation involving the proximal superdifferentials with the natural boundary condition, and if the value function is lower semicontinuous, then it is the minimum solution of the Hamilton–Jacobi equation involving the proximal subdifferentials with a natural boundary condition. Futhermore, if a compatibility condition is satisfied, then the value function is the unique lower semicontinuous solution of the Hamilton–Jacobi equation with a natural boundary condition and a subdifferential type boundary condition. Some conditions ensuring lower semicontinuity of the value functions are also given.",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Barron",
+        "given": "E. N."
+      },
+      {
+        "family": "Jensen",
+        "given": "R."
+      },
+      {
+        "family": "Liu",
+        "given": "W."
+      }
+    ],
+    "container-title": "SIAM Journal on Mathematical Analysis",
+    "id": "barron_applications_1998",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          1
+        ]
+      ]
+    },
+    "note": "Publisher: Society for Industrial and Applied Mathematics",
+    "page": "1022-1039",
+    "title": "Applications of the Hopf–Lax Formula for ut+H(u,Du)=0",
+    "type": "article-journal",
+    "volume": "29"
+  },
+  	{
+		"id": "cardaliaguet_MFG_2025",
+		"type": "article",
+		"title": "A short course on Mean field games and Mean field control problems",
+		"URL": "https://www.ceremade.dauphine.fr/~cardaliaguet/MFG20250115.pdf",
+		"author": [
+			{
+				"family": "Cardaliaguet",
+				"given": "Pierre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					7,
+					7
+				]
+			]
+		}
+	},
+  	{
+		"id": "sardarli2021",
+		"type": "article-journal",
+		"abstract": "This paper investigates the well-posedness of a type of state constraint ergodic Mean Field Game system in a bounded domain in which the Hamilton-Jacobi-Bellman equation is paired with an infinite Dirichlet boundary condition. In this setting, the infinite boundary condition prevents the underlying stochastic trajectories from reaching the boundary, resulting in a state constraint solution. We consider a class of superlinear power-like Hamiltonians and establish existence and uniqueness results under appropriate assumptions on the coupling. We treat both non-local and local couplings, and establish the uniqueness of the system by exploiting the decay of the density near the boundary.",
+		"container-title": "arXiv:2101.10564 [math]",
+		"note": "arXiv: 2101.10564",
+		"source": "arXiv.org",
+		"title": "The ergodic Mean Field Game system for a type of state constraint condition",
+		"URL": "http://arxiv.org/abs/2101.10564",
+		"author": [
+			{
+				"family": "Sardarli",
+				"given": "Mariya"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					26
+				]
+			]
+		}
+	},
+  {
+		"id": "Gantumur2018",
+		"type": "manuscript",
+		"abstract": "We present here the classical method of subharmonic functions for solving the\nDirichlet problem that culminated in the works of Perron and Wiener.",
+		"number-of-pages": "13",
+		"title": "Perron's method",
+		"URL": "https://www.math.mcgill.ca/gantumur/math580f18/perronnotes.pdf",
+		"author": [
+			{
+				"family": "Gantumur",
+				"given": "Tsogtgerel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					7,
+					7
+				]
+			]
+		}
+	}, 
+  {
+    "DOI": "10.1007/b138356",
+    "ISBN": "978-0-8176-4336-2 978-0-8176-4413-0",
+    "URL": "http://link.springer.com/10.1007/b138356",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Cannarsa",
+        "given": "Piermarco"
+      },
+      {
+        "family": "Sinestrari",
+        "given": "Carlo"
+      }
+    ],
+    "id": "cannarsa_semiconcave_2004",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "keyword": "partial differential equations, optimal control, calculus, equation, cal. variation, convex analysis, dynamic programming, function, functions, geometric measure theory, Jacobi, measure theory, model, Natural, programming, time",
+    "publisher": "Birkhäuser",
+    "publisher-place": "Boston, MA",
+    "title": "Semiconcave Functions, Hamilton—Jacobi Equations, and Optimal Control",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1007/978-0-8176-4755-1",
+    "ISBN": "978-0-8176-4755-1",
+    "author": [
+      {
+        "family": "Bardi",
+        "given": "Martino"
+      },
+      {
+        "family": "Capuzzo-Dolcetta",
+        "given": "I."
+      }
+    ],
+    "collection-title": "Modern Birkhäuser Classics",
+    "id": "bardi_optimal_1997",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "publisher": "Birkhäuser Basel",
+    "title": "Optimal Control and Viscosity Solutions of Hamilton–Jacobi–Bellman Equations",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1016/j.anihpc.2006.09.002",
+    "ISSN": "0294-1449",
+    "URL": "https://ems.press/journals/aihpc/articles/4077616",
+    "abstract": "Hitoshi Ishii",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ishii",
+        "given": "Hitoshi"
+      }
+    ],
+    "container-title": "Annales de l’Institut Henri Poincaré C",
+    "id": "ishii_asymptotic_2008",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          4
+        ]
+      ]
+    },
+    "page": "231-266",
+    "title": "Asymptotic solutions for large time of Hamilton–Jacobi equations in Euclidean n space",
+    "type": "article-journal",
+    "volume": "25"
+  },
+  {
+    "URL": "http://eudml.org/doc/164529",
+    "author": [
+      {
+        "family": "Lasry",
+        "given": "J. M."
+      },
+      {
+        "family": "Lions",
+        "given": "P.-L."
+      }
+    ],
+    "container-title": "Mathematische Annalen",
+    "id": "lasry_nonlinear_1989",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "keyword": "ergodic problem, infinite horizon, nonlinear elliptic equations, optimal feedback control, optimal markovian control, Singular problems, state constrained optimal stochastic control problems, subquadratic and superquadratic Hamiltonians, viscosity approach",
+    "page": "583-630",
+    "title": "Nonlinear Elliptic Equations with Singular Boundary Conditions and Stochastic Control with State Constraints. I. The Model Problem.",
+    "type": "article-journal",
+    "volume": "283"
+  },
+  {
+    "DOI": "10.3233/ASY-2009-0965",
+    "ISSN": "0921-7134",
+    "URL": "https://content.iospress.com/articles/asymptotic-analysis/asy965?resultNumber=0&totalResults=719&start=0&q=Large+time+behavior+of+solutions+of+viscous+Hamilton%E2%80%93Jacobi+equations+with+superquadratic+Hamiltonian&resultsPageSize=10&rows=10",
+    "abstract": "We study the long-time behavior of the unique viscosity solution u of the viscous Hamilton–Jacobi equation ut −Δu+Dum =f in Ω×(0, +∞) with inhomogeneous Dirichlet boundary conditions, where Ω is a bounded domain of RN . We mainly focus on the super",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Tabet Tchamba",
+        "given": "Thierry"
+      }
+    ],
+    "container-title": "Asymptotic Analysis",
+    "id": "tabet_tchamba_large_2010",
+    "issue": "3-4",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          1
+        ]
+      ]
+    },
+    "note": "Publisher: IOS Press",
+    "page": "161-186",
+    "title": "Large time behavior of solutions of viscous Hamilton–Jacobi equations with superquadratic Hamiltonian",
+    "type": "article-journal",
+    "volume": "66"
+  },
+  {
+    "DOI": "10.1080/03605302.2019.1710845",
+    "ISSN": "0360-5302",
+    "URL": "https://doi.org/10.1080/03605302.2019.1710845",
+    "abstract": "We study the asymptotic behavior of the solutions to a family of discounted Hamilton-Jacobi equations, posed in RN, when the discount factor goes to zero. The ambient space being noncompact, we introduce an assumption implying that the Aubry set is compact and there is no degeneracy at infinity. Our approach is to deal not with a single Hamiltonian and Lagrangian but with the whole space of generalized Lagrangians, and then to define via duality minimizing measures associated with both the corresponding ergodic and discounted equations. The asymptotic result follows from the convergence properties of these measures concerning the narrow topology. We use as duality tool a separation theorem in locally convex Hausdorff spaces, and we use the strict topology in the space of the bounded generalized Lagrangians as well.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ishii",
+        "given": "Hitoshi"
+      },
+      {
+        "family": "Siconolfi",
+        "given": "Antonio"
+      }
+    ],
+    "container-title": "Communications in Partial Differential Equations",
+    "id": "ishii_vanishing_2020",
+    "issue": "0",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1
+        ]
+      ]
+    },
+    "keyword": "35F21, 49L25, Ergodic problem, 35B40, 37J99, Hamilton–Jacobi equations, vanishing discount problem",
+    "note": "Publisher: Taylor & Francis _eprint: https://doi.org/10.1080/03605302.2019.1710845",
+    "page": "1-36",
+    "title": "The vanishing discount problem for Hamilton–Jacobi equations in the Euclidean space",
+    "type": "article-journal",
+    "volume": "0"
+  },
+  {
+    "DOI": "10.1007/s00526-004-0271-z",
+    "ISSN": "1432-0835",
+    "URL": "https://link.springer.com/article/10.1007/s00526-004-0271-z",
+    "abstract": "We propose a PDE approach to the Aubry-Mather theory using viscosity solutions. This allows to treat Hamiltonians (on the flat torus $\\mathbb{T}^N$ ) just coercive, continuous and quasiconvex, for which a Hamiltonian flow cannot necessarily be defined. The analysis is focused on the family of Hamilton-Jacobi equations $$H(x,Du) = a$$ with a real parameter, and in particular on the unique equation of the family, corresponding to the so-called critical value a = c, for which there is a viscosity solution on $\\mathbb{T}^N$ . We define generalized projected Aubry and Mather sets and recover several properties of these sets holding for regular Hamiltonians.",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fathi",
+        "given": "Albert"
+      },
+      {
+        "family": "Siconolfi",
+        "given": "Antonio"
+      }
+    ],
+    "container-title": "Calculus of Variations and Partial Differential Equations",
+    "id": "fathi_pde_2005",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          2
+        ]
+      ]
+    },
+    "note": "Company: Springer Distributor: Springer Institution: Springer Label: Springer Number: 2 Publisher: Springer-Verlag",
+    "page": "185-228",
+    "title": "PDE aspects of Aubry-Mather theory for quasiconvex Hamiltonians",
+    "type": "article-journal",
+    "volume": "22"
+  }
+]

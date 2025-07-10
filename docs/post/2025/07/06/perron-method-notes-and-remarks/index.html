@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Perron Method - Notes and Remarks | tntmath</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+<link rel="stylesheet" type="text/css" href="https://example.org/scss/hugo-simplecite.min.138dd14c6aaf1b1a9b55c4fe22f82166812ce8081413d67a3b464e411d2b63ef.css">
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Perron Method - Notes and Remarks</span></h1>
+<h2 class="author">tntmath</h2>
+<h2 class="date">2025/07/06</h2>
+</div>
+
+<main>
+<h2 id="the-dirichlet-problem-on-bounded-domain">The Dirichlet problem on bounded domain</h2>
+<p>The basic problem takes the form of solving for an unknown function
+\( u:\overline{\Omega} \to \mathbb{R} \) where \( \Omega \) is an open, connected
+subset of \( \mathbb{R}^n \), the boundary value problem</p>
+$$
+  \begin{equation}\label{eq:PDE}
+    \begin{cases}
+      \begin{aligned}
+        \Delta u &= 0 &&\text{in}\; \Omega, \\
+               u &= g &&\text{on}\; \partial\Omega
+      \end{aligned}
+    \end{cases}
+  \end{equation}
+$$<p>
+where \( g:\partial \Omega \to \mathbb{R}\) is a given continuous function. The
+boundary value problem \(\eqref{eq:PDE}\) is extremely important and has a rich
+history of development, through</p>
+<ul>
+<li>Calculus of variation (Dirichlet&rsquo;s principle).</li>
+<li>Potential theory (Integral representation).</li>
+<li>Subharmonic function lifting method (Poincare&rsquo;s approach, or Perron&rsquo;s method).</li>
+</ul>
+<p>The following is quoted from  [<a class="hugo-simplecite-cite-hyperlink" href="#bibreference-1" title="T. Gantumur, Perron’s method[Online]. Available: https://www.math.mcgill.ca/gantumur/math580f18/perronnotes.pdf [Accessed: Jul. 7, 2025]. ">1</a>]:</p>
+<blockquote>
+  Three basic approaches came out of this: Poincaré-type methods which use subharmonic
+functions, integral equation methods based on potential representations of harmonic functions,
+and finally, variational methods related to minimizing the Dirichlet energy. In this chapter, we
+will study the method of subharmonic functions in detail.
+</blockquote>
+<h2 id="notes">Notes</h2>
+<p>The lecture note [<a class="hugo-simplecite-cite-hyperlink" href="#bibreference-1" title="T. Gantumur, Perron’s method[Online]. Available: https://www.math.mcgill.ca/gantumur/math580f18/perronnotes.pdf [Accessed: Jul. 7, 2025]. ">1</a>] is a very nice introduction to the
+history of the subject. This note outline nicely the historical development of the method
+for \(\eqref{eq:PDE}\). For a local setting, the so-called Perron&rsquo;s method can
+be applied to many situation, including a very general <em>fully nonlinear second-order PDE</em>. The goal of this blog post is to summarize the idea and subtlety of the method
+in many cases. In particular, the application of the method in the nonlocal setting will be considered.</p>
+<!-- H. Ishii,&#32;<q>Asymptotic solutions for large time of Hamilton–Jacobi equations in Euclidean n space,</q>&#32;<em>Annales de l’Institut Henri Poincaré C</em>,&#32;vol. 25,&#32;no. 2,&#32;pp. 231–266,&#32;2008.&#32;doi:<a class="hugo-simplecite-doi-hyperlink" rel="noopener" target="_blank" href="https://doi.org/10.1016/j.anihpc.2006.09.002">10.1016/j.anihpc.2006.09.002</a> -->
+<h2 id="references">References</h2>
+<ol class="hugo-simplecite-reference-list"><li class="hugo-simplecite-reference-list-item" id="bibreference-1">T. Gantumur,&#32;<em>Perron&rsquo;s method</em>[Online]. Available: <a class="hugo-simplecite-url-hyperlink" rel="noopener" target="_blank" href="https://www.math.mcgill.ca/gantumur/math580f18/perronnotes.pdf">https://www.math.mcgill.ca/gantumur/math580f18/perronnotes.pdf</a>&#32;[Accessed:
+Jul. 7, 2025].
+</li></ol>
+
+</main>
+
+  <footer>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/math-code.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/katex/dist/katex.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/render-katex.js" defer></script>
+
+<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>
+  
+  <hr/>
+  © <a href="https://github.com/tntmath">tntmath</a> 2016 &ndash; 2025 | <a href="https://github.com/tntmath">Github</a> | Built with <a href="https://gohugo.io/">Hugo</a> and the <a href="https://github.com/yihui/hugo-xmin">hugo-xmin</a> theme.
+  
+  </footer>
+  </body>
+</html>
+

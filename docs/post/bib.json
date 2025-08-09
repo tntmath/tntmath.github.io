@@ -1,5 +1,296 @@
 [
   {
+    "DOI": "10.1016/S0021-7824(03)00070-9",
+    "ISSN": "0021-7824",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0021782403000709",
+    "abstract": "We study the Dirichlet problem for viscous Hamilton–Jacobi equations. Despite this type of equations seems to be uniformly elliptic, loss of boundary conditions may occur because of the strong nonlinearity of the first-order part and therefore the Dirichlet boundary condition has to be understood in the sense of viscosity solutions theory. Under natural assumptions on the initial and boundary data, we prove a Strong Comparison Result which allows us to obtain the existence and the uniqueness of a continuous solution which is defined globally in time. Résumé Nous étudions le problème de Dirichlet pour des équations non linéaires paraboliques de type Hamilton–Jacobi avec viscosité. Bien que ces équations semblent uniformément elliptiques, des pertes de conditions aux limites peuvent se produire à cause de la forte non-linéarité du terme du premier ordre et on doit utiliser la notion de condition aux limites généralisée au sens de la théorie des solutions de viscosité. Sous des hypothèses naturelles sur la donnée initiale et la condition au bord, nous démontrons un résultat de comparaison fort qui nous permet d’obtenir l’existence et l’unicité d’une solution de viscosité continue qui est définie pour tous temps.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Barles",
+        "given": "Guy"
+      },
+      {
+        "family": "Da Lio",
+        "given": "Francesca"
+      }
+    ],
+    "container-title": "Journal de Mathématiques Pures et Appliquées",
+    "id": "barles_generalized_2004",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          1
+        ]
+      ]
+    },
+    "keyword": "Generalized Dirichlet problem, Geometric equations, Maximum principle, Semilinear elliptic equations, State-constraint boundary conditions, Viscosity solutions, Viscous Hamilton–Jacobi equations",
+    "page": "53-75",
+    "title": "On the generalized Dirichlet problem for viscous Hamilton–Jacobi equations",
+    "type": "article-journal",
+    "volume": "83"
+  },
+  {
+    "DOI": "10.1007/s00205-007-0074-4",
+    "ISSN": "1432-0673",
+    "URL": "https://link.springer.com/article/10.1007/s00205-007-0074-4",
+    "abstract": "In this paper, we present a result of homogenization of first-order Hamilton–Jacobi equations with ( $$u/\\varepsilon$$ )-periodic Hamiltonians. On the one hand, under a coercivity assumption on the Hamiltonian (and some natural regularity assumptions), we prove an ergodicity property of this equation and the existence of nonperiodic approximate correctors. On the other hand, the proof of the convergence of the solution, usually based on the introduction of a perturbed test function in the spirit of Evans’s work, uses here a twisted perturbed test function for a higher-dimensional problem.",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Imbert",
+        "given": "Cyril"
+      },
+      {
+        "family": "Monneau",
+        "given": "Régis"
+      }
+    ],
+    "container-title": "Archive for Rational Mechanics and Analysis",
+    "id": "imbert_homogenization_2008",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          1
+        ]
+      ]
+    },
+    "note": "Company: Springer Distributor: Springer Institution: Springer Label: Springer Number: 1 Publisher: Springer-Verlag",
+    "page": "49-89",
+    "title": "Homogenization of First-Order Equations with $(u/\\varepsilon)$ -Periodic Hamiltonians. Part I: Local Equations",
+    "title-short": "Homogenization of First-Order Equations with $$(u/\\varepsilon)$$ -Periodic Hamiltonians. Part I",
+    "type": "article-journal",
+    "volume": "187"
+  },
+  {
+    "DOI": "10.1007/978-3-642-36433-4_2",
+    "ISBN": "978-3-642-36433-4",
+    "URL": "https://doi.org/10.1007/978-3-642-36433-4_2",
+    "abstract": "In this course, we first present an elementary introduction to the concept of viscosity solutions for first-order Hamilton–Jacobi Equations: definition, stability and comparison results (in the continuous and discontinuous frameworks), boundary conditions in the viscosity sense, Perron’s method, Barron–Jensen solutions … etc. We use a running example on exit time control problems to illustrate the different notions and results. In a second part, we consider the large time behavior of periodic solutions of Hamilton–Jacobi Equations: we describe recents results obtained by using partial differential equations type arguments. This part is complementary of the course of H. Ishii which presents the dynamical system approach (“weak KAM approach”).",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Barles",
+        "given": "Guy"
+      }
+    ],
+    "container-title": "Hamilton-Jacobi Equations: Approximations, Numerical Analysis and Applications: Cetraro, Italy 2011, Editors: Paola Loreti, Nicoletta Anna Tchou",
+    "editor": [
+      {
+        "family": "Achdou",
+        "given": "Yves"
+      },
+      {
+        "family": "Barles",
+        "given": "Guy"
+      },
+      {
+        "family": "Ishii",
+        "given": "Hitoshi"
+      },
+      {
+        "family": "Litvinov",
+        "given": "Grigory L."
+      }
+    ],
+    "id": "barles_introduction_2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "keyword": "Jacobi Equation, Large Time Behavior, Viscosity Sense, Viscosity Solution, Viscosity Subsolution",
+    "page": "49-109",
+    "publisher": "Springer",
+    "publisher-place": "Berlin, Heidelberg",
+    "title": "An Introduction to the Theory of Viscosity Solutions for First-Order Hamilton–Jacobi Equations and Applications",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1007/s00220-002-0781-5",
+    "ISSN": "1432-0916",
+    "URL": "https://doi.org/10.1007/s00220-002-0781-5",
+    "abstract": "We review and extend some results of Jauslin, Kreiss, Moser and Weinan E on the smooth approximation of Mather sets.",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bessi",
+        "given": "Ugo"
+      }
+    ],
+    "container-title": "Communications in Mathematical Physics",
+    "id": "bessi_aubry-mather_2003",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          4
+        ]
+      ]
+    },
+    "keyword": "Approximations and Expansions, Differential Equations, Dynamical Systems, Mathematical Logic and Foundations, Mathematical Physics, Set Theory, Smooth Approximation",
+    "page": "495-511",
+    "title": "Aubry-Mather Theory and Hamilton-Jacobi Equations",
+    "type": "article-journal",
+    "volume": "235"
+  },
+  {
+    "DOI": "10.1016/j.jmaa.2011.03.009",
+    "ISSN": "0022-247X",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0022247X11002307",
+    "abstract": "We are concerned with fully nonlinear possibly degenerate elliptic partial differential equations (PDEs) with superlinear terms with respect to Du. We prove several comparison principles among viscosity solutions which may be unbounded under some polynomial-type growth conditions. Our main result applies to PDEs with convex superlinear terms but we also obtain some results in nonconvex cases. Applications to monotone systems of PDEs are given.",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Koike",
+        "given": "Shigeaki"
+      },
+      {
+        "family": "Ley",
+        "given": "Olivier"
+      }
+    ],
+    "container-title": "Journal of Mathematical Analysis and Applications",
+    "id": "koike_comparison_2011",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          9
+        ]
+      ]
+    },
+    "keyword": "Comparison principle, Growth conditions, Nonconvex Hamiltonians, Systems of PDE, Viscosity solution",
+    "page": "110-120",
+    "title": "Comparison principle for unbounded viscosity solutions of degenerate elliptic PDEs with gradient superlinear terms",
+    "type": "article-journal",
+    "volume": "381"
+  },
+  {
+    "DOI": "10.57262/die/1372700403",
+    "ISSN": "08934983",
+    "URL": "https://www.mendeley.com/catalogue/8ca29e91-b514-3d96-9aa1-740f49694b60/",
+    "abstract": "(1990) Crandall, Lions. Differential and Integral Equations. Fully nonlinear (degenerate) elliptic and parabolic equations of second order in RN of the forms u + F(D2u) = f(x) and Ut + F(D2u) = 0, ...",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Crandall",
+        "given": "Michael G."
+      },
+      {
+        "family": "Lions",
+        "given": "P. L."
+      }
+    ],
+    "container-title": "Differential and Integral Equations",
+    "id": "crandall_quadratic_1990",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "note": "Number: 4",
+    "page": "601-616",
+    "title": "Quadratic growth of solutions of fully nonlinear second order equations in Rn",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "DOI": "10.48550/arXiv.2308.04271",
+    "URL": "http://arxiv.org/abs/2308.04271",
+    "abstract": "We prove De Giorgi-Nash-Moser Theory using a geometric approach.",
+    "accessed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          16
+        ]
+      ]
+    },
+    "annote": "Comment: 14 pages, 1 figure",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Lihe"
+      }
+    ],
+    "id": "wang_geometric_2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8
+        ]
+      ]
+    },
+    "keyword": "Mathematics - Analysis of PDEs",
+    "note": "arXiv:2308.04271 [math]",
+    "publisher": "arXiv",
+    "title": "Geometric De Giorgi Theory",
+    "type": ""
+  }
+  ,
+  {
     "DOI": "10.1137/S0036141097319966",
     "ISSN": "0036-1410",
     "URL": "https://epubs.siam.org/doi/10.1137/S0036141097319966",

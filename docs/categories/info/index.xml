@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on tntmath</title>
+    <link>https://example.org/categories/info/</link>
+    <description>Recent content in Info on tntmath</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/categories/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waco, Texas</title>
+      <link>https://example.org/post/2025/08/07/waco-texas/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/2025/08/07/waco-texas/</guid>
+      <description>&lt;p&gt;This website &lt;a href=&#34;https://wacohistory.org/&#34;&gt;https://wacohistory.org/&lt;/a&gt; is very interesting, containing many historical facts about Waco.&lt;/p&gt;&#xA;&lt;p&gt;Things that people know when hearing about Waco:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;The Waco siege&amp;rdquo;. It was a standoff between a religioous cult and FBI near Waco, Texas, lasing from February 28, 1993 to April 19, 1993.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

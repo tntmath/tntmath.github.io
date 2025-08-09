@@ -6,21 +6,28 @@
     <description>Recent content in MathJax on tntmath</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waco, Texas</title>
+      <link>https://example.org/post/2025/08/07/waco-texas/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/2025/08/07/waco-texas/</guid>
+      <description>&lt;p&gt;This website &lt;a href=&#34;https://wacohistory.org/&#34;&gt;https://wacohistory.org/&lt;/a&gt; is very interesting, containing many historical facts about Waco.&lt;/p&gt;&#xA;&lt;p&gt;Things that people know when hearing about Waco:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;The Waco siege&amp;rdquo;. It was a standoff between a religioous cult and FBI near Waco, Texas, lasing from February 28, 1993 to April 19, 1993.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Semiconcave - Notes and Remarks</title>
+      <link>https://example.org/post/2025/07/31/semiconcave-notes-and-remarks/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/2025/07/31/semiconcave-notes-and-remarks/</guid>
+      <description>&lt;h2 id=&#34;semiconcave-functions&#34;&gt;Semiconcave Functions&lt;/h2&gt;&#xA;&lt;p&gt;Let \( \Omega\subset \R^n \)&#xA;[&lt;a class=&#34;hugo-simplecite-cite-hyperlink&#34; href=&#34;#bibreference-1&#34; title=&#34;P. Cannarsa and C. Sinestrari, Semiconcave Functions, Hamilton—Jacobi Equations, and Optimal Control. Boston, MA: Birkhäuser, 2004. doi:10.1007/b138356&#34;&gt;1&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;&#xA;&lt;ol class=&#34;hugo-simplecite-reference-list&#34;&gt;&lt;li class=&#34;hugo-simplecite-reference-list-item&#34; id=&#34;bibreference-1&#34;&gt;P. Cannarsa and&amp;#32;C. Sinestrari,&amp;#32;&lt;em&gt;Semiconcave Functions, Hamilton—Jacobi Equations, and Optimal Control&lt;/em&gt;.&amp;#32;Boston, MA:&amp;#32;Birkhäuser, 2004.&amp;#32;doi:&lt;a class=&#34;hugo-simplecite-doi-hyperlink&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; href=&#34;https://doi.org/10.1007/b138356&#34;&gt;10.1007/b138356&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>Perron Method - Notes and Remarks</title>
       <link>https://example.org/post/2025/07/06/perron-method-notes-and-remarks/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/post/2025/07/06/perron-method-notes-and-remarks/</guid>
       <description>&lt;h2 id=&#34;the-dirichlet-problem-on-bounded-domain&#34;&gt;The Dirichlet problem on bounded domain&lt;/h2&gt;&#xA;&lt;p&gt;The basic problem takes the form of solving for an unknown function&#xA;\( u:\overline{\Omega} \to \mathbb{R} \) where \( \Omega \) is an open, connected&#xA;subset of \( \mathbb{R}^n \), the boundary value problem&lt;/p&gt;&#xA;$$&#xA;  \begin{equation}\label{eq:PDE}&#xA;    \begin{cases}&#xA;      \begin{aligned}&#xA;        \Delta u &amp;= 0 &amp;&amp;\text{in}\; \Omega, \\&#xA;               u &amp;= g &amp;&amp;\text{on}\; \partial\Omega&#xA;      \end{aligned}&#xA;    \end{cases}&#xA;  \end{equation}&#xA;$$&lt;p&gt;&#xA;where \( g:\partial \Omega \to \mathbb{R}\) is a given continuous function. The&#xA;boundary value problem \(\eqref{eq:PDE}\) is extremely important and has a rich&#xA;history of development, through&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://example.org/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>&lt;p&gt;This sample post is mainly for&#xA;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; users. If you do not use&#xA;&lt;strong&gt;blogdown&lt;/strong&gt;, you can skip the first section.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-markdown-or-r-markdown&#34;&gt;1. Markdown or R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown&#xA;(&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R&#xA;Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;&#xA;&lt;li&gt;A plain Markdown post is rendered through&#xA;&lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Goldmark&lt;/a&gt; by default, and an R&#xA;Markdown document is compiled by&#xA;&lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and&#xA;&lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;There are differences in syntax between Goldmark&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s&#xA;Markdown. For example, Goldmark does not support LaTeX math and Pandoc does. I&#xA;have added the KaTeX support to this theme (i.e.,&#xA;&lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;hugo-xmin&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://example.org/archive/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
@@ -15,6 +15,9 @@
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/2025/08/01/comparison-principle/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/2025/07/31/semiconcave-notes-and-remarks/</loc>
@@ -40,9 +43,6 @@
   </url><url>
     <loc>https://example.org/tags/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/note/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/about/</loc>
   </url>

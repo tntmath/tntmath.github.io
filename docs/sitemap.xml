@@ -2,74 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/blogdown/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/info/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/markdown/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/mathjax/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/pandoc/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/rstudio/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/post/2025/08/07/waco-texas/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/math/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/note/</loc>
+    <loc>https://example.org/categories/math/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/2025/08/01/comparison-principle/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/note/2025/08/01/collection-note/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/blogdown/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/markdown/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/mathjax/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/pandoc/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/rstudio/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/2025/07/31/semiconcave-notes-and-remarks/</loc>
     <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/note/2025/07/15/collection-note-hamilton-jacobi/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/2025/07/06/perron-method-notes-and-remarks/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/note/2025/07/01/collection-note/</loc>
+    <loc>https://example.org/note/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/note/2017/06/14/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/example/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/note/2017/06/13/a-quick-note/</loc>
-    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/about/</loc>
   </url>

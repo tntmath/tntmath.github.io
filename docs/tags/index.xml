@@ -6,48 +6,41 @@
     <description>Recent content in Tags on tntmath</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogdown</title>
       <link>https://example.org/tags/blogdown/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/blogdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
       <link>https://example.org/tags/markdown/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>MathJax</title>
       <link>https://example.org/tags/mathjax/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Pandoc</title>
       <link>https://example.org/tags/pandoc/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/pandoc/</guid>
       <description></description>
     </item>
     <item>
       <title>RStudio</title>
       <link>https://example.org/tags/rstudio/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://example.org/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tutorial</title>
-      <link>https://example.org/tags/tutorial/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>

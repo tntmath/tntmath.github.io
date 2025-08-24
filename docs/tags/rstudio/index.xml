@@ -6,15 +6,8 @@
     <description>Recent content in RStudio on tntmath</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Semiconcave - Notes and Remarks</title>
-      <link>https://example.org/post/2025/07/31/semiconcave-notes-and-remarks/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/2025/07/31/semiconcave-notes-and-remarks/</guid>
-      <description>&lt;h2 id=&#34;semiconcave-functions&#34;&gt;Semiconcave Functions&lt;/h2&gt;&#xA;&lt;p&gt;Let \( \Omega\subset \R^n \)&#xA;[&lt;a class=&#34;hugo-simplecite-cite-hyperlink&#34; href=&#34;#bibreference-1&#34; title=&#34;P. Cannarsa and C. Sinestrari, Semiconcave Functions, Hamilton—Jacobi Equations, and Optimal Control. Boston, MA: Birkhäuser, 2004. doi:10.1007/b138356&#34;&gt;1&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;&#xA;&lt;ol class=&#34;hugo-simplecite-reference-list&#34;&gt;&lt;li class=&#34;hugo-simplecite-reference-list-item&#34; id=&#34;bibreference-1&#34;&gt;P. Cannarsa and&amp;#32;C. Sinestrari,&amp;#32;&lt;em&gt;Semiconcave Functions, Hamilton—Jacobi Equations, and Optimal Control&lt;/em&gt;.&amp;#32;Boston, MA:&amp;#32;Birkhäuser, 2004.&amp;#32;doi:&lt;a class=&#34;hugo-simplecite-doi-hyperlink&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; href=&#34;https://doi.org/10.1007/b138356&#34;&gt;10.1007/b138356&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-    </item>
     <item>
       <title>Perron Method - Notes and Remarks</title>
       <link>https://example.org/post/2025/07/06/perron-method-notes-and-remarks/</link>
